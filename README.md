@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shweta
+                               👋 Hi, I’m shweta 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, js, java
 - 💞️ I’m looking to collaborate with good companies
